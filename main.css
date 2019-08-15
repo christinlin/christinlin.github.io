@@ -10,33 +10,12 @@ body {
 	color: white; /* Seems unintuitive, but this stands for text-color! */
 	padding-left: 80px;
 }
-/* chris {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	height: 300px;
-} */
-#myphoto{
-	display: block;
 
-	margin-left: 13%;
-	margin-right: auto;
-	float: left; /* Allows text to be to the right of the image */
-	margin-right: 30px; /* Gives breathing room between image and the text */
-}
 h1 {
 	font-size: 20pt; /* Lets you change the size of the font. */
 	text-align: center;
 
 
-}
-#chris {
-	display: block;
-	margin-top: 3%;
-	margin-left: auto;
-	margin-right: auto;
-	width: 30%
-	
 }
 
 h2 {
@@ -132,11 +111,6 @@ h2 {
     left: 0;
 }
 
-/* #techx {
-    top: 50px;
-    background-color: rgb(233, 44, 132);
-} */
-
 #blog {
     top: 50px;
     background-color: rgb(255, 241, 113);
@@ -152,33 +126,6 @@ h2 {
     background-color: rgb(149, 243, 149);
 }
 
-/* .chatbox{
-position: relative;
-max-width:1000px;
-height: auto;
-border: 2px solid #ffffff;
-margin: 100px auto;
-padding: 30px;
-box-sizing: border-box;
-float: center;
-}
-.chatbox:after{
-position: absolute;
-width: 50px;
-height: 50px;
-border-top: 0px solid #ffffff;
-border-right: 2px solid #ffffff;
-border-bottom: 2px solid #ffffff;
-border-left: 0px solid #ffffff;
-top:100%;
-left: 50%;
-margin-left: -25px;
-content: '';
-transform: rotate(45deg);
-margin-top: -25px;
-background: #f39c9c;
-	
-} */
 a:hover > img {
 	border-bottom: 3px solid white;
 }

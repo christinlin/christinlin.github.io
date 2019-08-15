@@ -12,8 +12,8 @@ body {
 }
 #lumi{
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 50%;
+	margin-right: 50%;
 	/* float: left; Allows text to be to the right of the image */
 	/* margin-right: 20px; Gives breathing room between image and the text */
 }

@@ -6,7 +6,7 @@ yourcsscode:;
    }
 body {
 	font-family: "Open Sans"; /* Imported from Google fonts, needs a corresponding "link" tag in the HTML*/
-	background-color: #f39c9c; /* A HEX value that represents a purple color */
+	background-color: #B4C7F2; /* A HEX value that represents a purple color */
 	color: white; /* Seems unintuitive, but this stands for text-color! */
 	padding-left: 80px;
 }

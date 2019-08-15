@@ -10,4 +10,11 @@ body {
 	color: white; /* Seems unintuitive, but this stands for text-color! */
 	padding-left: 80px;
 }
+#lumi{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	/* float: left; Allows text to be to the right of the image */
+	/* margin-right: 20px; Gives breathing room between image and the text */
+}
 
